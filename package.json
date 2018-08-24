@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Go to [nodejs.org][node] download and install. Once installed verify sucessfull installation by running below command.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/saumanitjain/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/saumanitjain/nodejs/issues"
+  },
+  "homepage": "https://gitlab.com/saumanitjain/nodejs#README",
+  "dependencies": {
+    "prepend-file": "^1.3.1"
+  }
+}
