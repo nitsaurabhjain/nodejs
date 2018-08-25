@@ -1,5 +1,6 @@
 ## Node.js
 **Node.js is a platform built on Chrome's JavaScript engine to run JavaScript applications.**
+Some good  [interview-question answer] [q-a]
 Go to [nodejs.org][node] download and install. Once installed verify sucessfull installation by running below command.
 ## Some important commands 
 ```
@@ -171,3 +172,4 @@ moduleb> npm link <module_name> //create a link of given module (modulea) into l
 
 
 [node]: <https://nodejs.org/en/>
+[q-a]: <https://mindmajix.com/node-js-interview-questions-answers>
